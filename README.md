@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Leandro Souza
+# 👩🏻‍💻 Leandro A de Souza
 
 ### 🤖 Sobre
 
