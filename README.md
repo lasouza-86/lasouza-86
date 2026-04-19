@@ -1,6 +1,5 @@
-# 🧑‍💻 Leandro Souza
 
-### 👨‍💼 Sobre
+## 👨‍💼 Sobre
 
 Eu me chamo Leandro, tenho 39 anos e sou natural do Brasília. Sou graduado em Sistema de Informação e tenho MBA em Gestão de Projetos e Liderança & Inovação pela FGV. Atualmente, estou cursando na FGV meu quarto MBA com foco em Gestão Comercial & Vendas. Tenho mais de 15 anos de experiência, com o foco em alavancar parcerias e impulsionar a transformação digital. Meu ponto de destaque é unir a visão negocial com excelência na entrega, através da tecnologia.
 
@@ -12,7 +11,7 @@ Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu Lin
 
 ---
 
-### 🌍 Social Media
+## 🌍 Social Media
 
 <p align="left">
 <a href="https://www.linkedin.com/in/leandroadesouza/">
@@ -71,7 +70,7 @@ Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu Lin
 
 ---
 
-### 🤖 Tecnologias & Cloud
+## 🤖 Tecnologias & Cloud
 
 <img 
     align="left" 
@@ -92,7 +91,7 @@ Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu Lin
 
 ---
 
-### 👔 Gestão, Governança e Agilidade
+## 👔 Gestão, Governança e Agilidade
 <p align="left">
   <img src="https://img.shields.io/badge/PMI-PMP-blue?style=for-the-badge&logo=pmi&logoColor=white" alt="PMP" />
   <img src="https://img.shields.io/badge/PeopleCert-ITIL_Expert-990033?style=for-the-badge&logo=itil&logoColor=white" alt="ITIL Expert" />
@@ -114,7 +113,7 @@ Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu Lin
 <br/>
 
 ---
-### 📊 Estatísticas
+## 📊 Estatísticas
 
 <p>
     <img
