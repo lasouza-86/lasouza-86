@@ -8,6 +8,8 @@ Atuei como gerente de projetos tradicionais e agéis, liderando equipes multidis
 Atualmente, sou BU Leader AWS, sendo responsável por fortalecer a parceria com AWS, além de impulsionar resultados através da realização de vendas, ações de marketing, educação e apoio operacional.
 
 Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu Linkedin "[Leandro A de Souza](https://www.linkedin.com/in/leandroadesouza/)" e meu blog no Medium "[@lasouza.86](https://medium.com/@lasouza.86)" no onde ensino e comportilho novidades sobre Cloud.
+<br/>
+<br/>
 
 ---
 
@@ -67,6 +69,7 @@ Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu Lin
     </a>
 </p> -->
 <br/>
+<br/>
 
 ---
 
@@ -87,6 +90,7 @@ Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu Lin
 ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)        
 
 > **AWS Partner Accreditations:** Well-Architected Best Practices • Migration Sales Essentials • Cloud Economics • Technical & Sales Accredited.
+<br/>
 <br/>
 
 ---
@@ -110,6 +114,7 @@ Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu Lin
   <img src="https://img.shields.io/badge/Scaled_Agile-SAFe_6_Scrum_Master-brightgreen?style=for-the-badge" alt="SAFe SM" />
   <img src="https://img.shields.io/badge/Scaled_Agile-SAFe_5_Program_Consultant-brightgreen?style=for-the-badge" alt="SAFe 5" />
 </p>
+<br/>
 <br/>
 
 ---
